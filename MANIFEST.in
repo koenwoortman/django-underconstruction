@@ -1,0 +1,3 @@
+recursive-include django_underconstruction/templates *
+include LICENSE
+include README.md
